@@ -1,6 +1,6 @@
-console.log('client side js file is loaded!')
+
 const weatherForm = document.querySelector('form')
-const search = document.querySelector('input')
+const search = document.querySelector('i nput')
 const message1 = document.querySelector('#msg1')
 message1.textContent = 'From Javascript'
 const message2 = document.querySelector('#msg2')
